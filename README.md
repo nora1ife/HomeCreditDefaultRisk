@@ -37,7 +37,7 @@ You can download data from [kaggle](https://www.kaggle.com/c/home-credit-default
   - This file contains descriptions for the columns in the various data files.
 
 ## Structures
-This repo is __NOT__ include dataset.  
+This repository is __NOT__ include dataset.  
 So, when you use this repository, you put data like below.
 
 ```
